@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_text_margintop">20dp</dimen>
+    <dimen name="textview_employee_list_margintop">5dp</dimen>
+
+    <dimen name="textsize">20sp</dimen>
+    <dimen name="textview_employee_list_marginleft">10dp</dimen>
+    <dimen name="textview_employee_list_marginstart">10dp</dimen>
+    <dimen name="textview_employeelist_marginleft">10dp</dimen>
+    <dimen name="textview_employeelist_marginend">10dp</dimen>
+    <dimen name="textview_menu_textsize">20sp</dimen>
+    <dimen name="textview_employeelist_marginright">10dp</dimen>
+    <dimen name="floatingaction_button_main_margins">16dp</dimen>
+</resources>

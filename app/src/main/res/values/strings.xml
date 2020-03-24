@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidStorage2</string>
+
+
+
+
+    <string name="address">address</string>
+    <string name="num">1234567890</string>
+    <string name="options">⋮</string>
+    <string name="enter_id">enter ID</string>
+    <string name="enter_name">enter Name</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_mobile">Enter mobile</string>
+    <string name="submit">Submit</string>
+    <string name="employee_name">Employee name</string>
+</resources>
